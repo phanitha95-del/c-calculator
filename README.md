@@ -1,5 +1,5 @@
 # C Calculator
-A simple command-line calculator built using C that perform basic arithrmetic operations.
+A simple command-line calculator built using C that performs basic arithrmetic operations.
 ## Features
 - Addition
 - Subtraction
